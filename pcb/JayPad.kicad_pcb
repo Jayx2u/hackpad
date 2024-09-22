@@ -607,7 +607,7 @@
 		(at 51.27 83.45)
 		(descr "Cherry MX switch footprint. Size: 1.00u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: n/a, Lighting: LTST-A683CEGBW for hand-soldering")
 		(tags "CherryMX 1.00u KailhSocket LTST-A683CEGBW-HS")
-		(property "Reference" "S5"
+		(property "Reference" "S8"
 			(at 58.73 -8.6625 0)
 			(layer "B.SilkS")
 			(uuid "e0e22420-ab0a-49af-8693-a8cd03116c9e")
@@ -1185,7 +1185,7 @@
 		(at 70.88 63.86)
 		(descr "Cherry MX switch footprint. Size: 1.00u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: n/a, Lighting: LTST-A683CEGBW for hand-soldering")
 		(tags "CherryMX 1.00u KailhSocket LTST-A683CEGBW-HS")
-		(property "Reference" "S2"
+		(property "Reference" "S3"
 			(at 19.51 -8.6625 0)
 			(layer "B.SilkS")
 			(uuid "df31bce4-7c78-4594-938b-ab4049994d16")
@@ -2396,7 +2396,7 @@
 		(at 51.25 103.07)
 		(descr "Cherry MX switch footprint. Size: 1.00u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: n/a, Lighting: LTST-A683CEGBW for hand-soldering")
 		(tags "CherryMX 1.00u KailhSocket LTST-A683CEGBW-HS")
-		(property "Reference" "S9"
+		(property "Reference" "S12"
 			(at 58.77 -8.6625 0)
 			(layer "B.SilkS")
 			(uuid "0cd65dc1-b820-4210-89a3-ca50966d6f7f")
@@ -2767,7 +2767,7 @@
 		(at 110.13 103.09)
 		(descr "Cherry MX switch footprint. Size: 1.00u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: n/a, Lighting: LTST-A683CEGBW for hand-soldering")
 		(tags "CherryMX 1.00u KailhSocket LTST-A683CEGBW-HS")
-		(property "Reference" "S12"
+		(property "Reference" "S9"
 			(at -58.99 -8.6625 0)
 			(layer "B.SilkS")
 			(uuid "027d449e-c537-4e71-84ce-a03cbf8a4872")
@@ -3445,7 +3445,7 @@
 		(at 51.27 63.89)
 		(descr "Cherry MX switch footprint. Size: 1.00u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: n/a, Lighting: LTST-A683CEGBW for hand-soldering")
 		(tags "CherryMX 1.00u KailhSocket LTST-A683CEGBW-HS")
-		(property "Reference" "S1"
+		(property "Reference" "S4"
 			(at 58.73 -8.6625 0)
 			(layer "B.SilkS")
 			(uuid "bd5621dd-171c-4ebd-b4a4-130eecf7db7c")
@@ -3816,7 +3816,7 @@
 		(at 90.52 83.45)
 		(descr "Cherry MX switch footprint. Size: 1.00u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: n/a, Lighting: LTST-A683CEGBW for hand-soldering")
 		(tags "CherryMX 1.00u KailhSocket LTST-A683CEGBW-HS")
-		(property "Reference" "S7"
+		(property "Reference" "S6"
 			(at -19.77 -8.6625 0)
 			(layer "B.SilkS")
 			(uuid "118886dc-ce79-43db-b80f-7e96ef508af3")
@@ -4187,7 +4187,7 @@
 		(at 110.12 83.45)
 		(descr "Cherry MX switch footprint. Size: 1.00u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: n/a, Lighting: LTST-A683CEGBW for hand-soldering")
 		(tags "CherryMX 1.00u KailhSocket LTST-A683CEGBW-HS")
-		(property "Reference" "S8"
+		(property "Reference" "S5"
 			(at -58.97 -8.6625 0)
 			(layer "B.SilkS")
 			(uuid "286868ea-ec6e-4ea5-a1be-b5d7e6cc36fd")
@@ -4558,7 +4558,7 @@
 		(at 90.52 63.86)
 		(descr "Cherry MX switch footprint. Size: 1.00u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: n/a, Lighting: LTST-A683CEGBW for hand-soldering")
 		(tags "CherryMX 1.00u KailhSocket LTST-A683CEGBW-HS")
-		(property "Reference" "S3"
+		(property "Reference" "S2"
 			(at -19.77 -8.6625 0)
 			(layer "B.SilkS")
 			(uuid "15da1601-b9de-4e4d-884a-8a1bca4f4787")
@@ -5235,7 +5235,7 @@
 		(at 70.89 83.44)
 		(descr "Cherry MX switch footprint. Size: 1.00u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: n/a, Lighting: LTST-A683CEGBW for hand-soldering")
 		(tags "CherryMX 1.00u KailhSocket LTST-A683CEGBW-HS")
-		(property "Reference" "S6"
+		(property "Reference" "S7"
 			(at 19.49 -8.6625 0)
 			(layer "B.SilkS")
 			(uuid "ac58e707-6e6c-432c-8e71-34ecabf782a9")
@@ -6206,7 +6206,7 @@
 		(at 70.865 103.06)
 		(descr "Cherry MX switch footprint. Size: 1.00u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: n/a, Lighting: LTST-A683CEGBW for hand-soldering")
 		(tags "CherryMX 1.00u KailhSocket LTST-A683CEGBW-HS")
-		(property "Reference" "S10"
+		(property "Reference" "S11"
 			(at 19.54 -8.6625 0)
 			(layer "B.SilkS")
 			(uuid "8880a498-9a60-4964-9eba-5f740092f1af")
@@ -8154,7 +8154,7 @@
 		(at 90.49 103.08)
 		(descr "Cherry MX switch footprint. Size: 1.00u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: n/a, Lighting: LTST-A683CEGBW for hand-soldering")
 		(tags "CherryMX 1.00u KailhSocket LTST-A683CEGBW-HS")
-		(property "Reference" "S11"
+		(property "Reference" "S10"
 			(at -19.71 -8.6625 0)
 			(layer "B.SilkS")
 			(uuid "9fa9d35d-6f6d-4289-96db-ffe9e43259e8")
@@ -8525,7 +8525,7 @@
 		(at 110.13 63.8)
 		(descr "Cherry MX switch footprint. Size: 1.00u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: n/a, Lighting: LTST-A683CEGBW for hand-soldering")
 		(tags "CherryMX 1.00u KailhSocket LTST-A683CEGBW-HS")
-		(property "Reference" "S4"
+		(property "Reference" "S1"
 			(at -58.99 -8.6625 0)
 			(layer "B.SilkS")
 			(uuid "3ea2baab-b6c7-401c-8990-b63a3e8af8df")
