@@ -1,5 +1,5 @@
 # JayPad
-A macropad made for the YSWS Hack Club event 'Hackpad.' Got too many modded Minecraft keybinds...
+A macropad made for the YSWS Hack Club event [Hackpad](https://github.com/hackclub/hackpad). Got too many modded Minecraft keybinds...
 ## PCB
 ![Font of PCB](https://cloud-bjrjgm1gq-hack-club-bot.vercel.app/0image.png)
 ![Back of PCB](https://cloud-bjrjgm1gq-hack-club-bot.vercel.app/1image.png)
