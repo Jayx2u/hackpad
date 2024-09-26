@@ -1,4 +1,4 @@
-print("Starting ~w~")
+print("Waking Up ~w~")
 
 import board
 
@@ -28,13 +28,25 @@ rgbOnBoard= RGB(
 )
 keyboard.extensions.append(rgbOnBoard)
 
+# Switch Matrix Pins
 keyboard.col_pins = (board.D0, board.D1, board.D2, board.D3)
 keyboard.row_pins = (board.D9, board.D8, board.D7)
 keyboard.diode_orientation = DiodeOrientation.COL2ROW
 
-# 4x3 Matrix
+# 4x3 Matrix Keymap
 keyboard.keymap = [
-    [KC.A,]
+    [KC.RGB_TOG],
+    [KC.MUTE],
+    [KC.P1],
+    [KC.P2],
+    [KC.P3],
+    [KC.P4],
+    [KC.P5],
+    [KC.P6],
+    [KC.P7],
+    [KC.P8],
+    [KC.P9],
+    [KC.P0],
 ]
 
 # Rotary Encoder
