@@ -1,9 +1,9 @@
 # JayPad
 My first PCB design. A macropad made for the YSWS Hack Club event [Hackpad](https://github.com/hackclub/hackpad). Got too many modded Minecraft keybinds...
 ## Showcase
-![Front Photo](https://cdn.hackclubber.dev/slackcdn/bced3622740e29453daaddd92f890401.jpg)
-![Front Photo Alt 2](https://cdn.hackclubber.dev/slackcdn/7c503b0c5704794d61f084ea70b26464.jpg)
-![Back Photo](https://cdn.hack.pet/slackcdn/ebf94a143eab8547a63437a5720b2a8e.jpg)
+![Front Photo](https://cdn.hack.pet/slackcdn/e8dd6b0fb7ffe63e827e93871922a91c.jpg)
+![Back Photo](https://cdn.hack.pet/slackcdn/3f87adab0bfbb8b0b9874f4fb80dd421.jpg)
+![Front Photo Alt 2](https://cdn.hackclubber.dev/slackcdn/6637ec59f25db88a726a2f92d297d5c0.jpg)
 ## PCB
 ![Font of PCB](https://cloud-h5yixc0ea-hack-club-bot.vercel.app/2jaypad-top-render.png)
 ![Back of PCB](https://cloud-dua0q5zi2-hack-club-bot.vercel.app/0jaypad-bottom.png)
